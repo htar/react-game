@@ -1,4 +1,7 @@
-# Getting Started
+# Task 
+https://github.com/rolling-scopes-school/tasks/blob/master/tasks/react/react-game.md
+
+# Deployed to
 
 Deployed to https://htar-react-game.herokuapp.com/
 
